@@ -1,3 +1,5 @@
+#Time Complexity: O(n)
+#Space Complexity: O(1)
 def LinearSearch(arr,value):
     for i in range(len(arr)):
         if(arr[i]==value):
